@@ -4,6 +4,8 @@
 
 This project delves into a multivariate time series analysis to identify and analyze the key factors affecting the unemployment rate in the United States from Q1 1980 to Q4 2022. The analysis uses various economic indicators and statistical techniques to uncover trends, structural breaks, and the underlying relationships between the unemployment rate and other economic variables.
 
+This is a group project we created together with Anna Fischer.
+
 ## 🚀 Key Components:
 
 ### Data Collection and Preparation:
